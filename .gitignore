@@ -1,3 +1,4 @@
 include/libsgm_config.h
 build/
+.clangd
 compile_commands.json
